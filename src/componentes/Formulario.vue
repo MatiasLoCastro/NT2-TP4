@@ -1,7 +1,7 @@
 <template>
   <section class="src-componentes-formulario">
     <div class="div jumbotron">
-      <h2>Componente FormularioAv</h2>
+      <h2>Componente Formulario</h2>
       <hr />
       <hr />
       <br />
