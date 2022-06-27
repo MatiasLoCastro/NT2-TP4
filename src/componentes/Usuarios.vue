@@ -5,7 +5,7 @@
       <hr />
       <br />
       <button class="btn btn-warning mr-3" @click="getXHR()">
-        Get USers XHR
+        Get Users XHR
       </button>
       <button class="btn btn-success mr-3" @click="getFetch()">
         Get Users Fetch

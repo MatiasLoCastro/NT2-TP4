@@ -123,13 +123,13 @@
         No se encontraron usuarios.
       </h4>
 
-      <hr />
+      <!-- <hr />
       <p><u>formData</u></p>
       <pre>{{ formData }}</pre>
 
       <hr />
       <p><u>formState</u></p>
-      <pre>{{ formState }}</pre>
+      <pre>{{ formState }}</pre> -->
     </div>
   </section>
 </template>
